@@ -1,0 +1,48 @@
+{
+  "airplanes": [
+    {
+      "id": 1,
+      "name": "P-51 Mustang",
+      "role": "Fighter",
+      "introduction": 1942
+    },
+    {
+      "id": 2,
+      "name": "Boeing 777-200ER",
+      "role": "Wide-body jet airliner",
+      "introduction": 1995
+    },
+    {
+      "id": 3,
+      "name": "Lockheed Electra 10E",
+      "role": "Light airliner",
+      "introduction": 1935
+    }
+  ],
+  "pilots": [
+    {
+      "id": 1,
+      "name": "Nina Randall",
+      "bday": "1938/07/29",
+      "airplane_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Amelia Mary Earhart",
+      "bday": "1897/07/24",
+      "airplane_id": 3
+    },
+    {
+      "id": 3,
+      "name": "Wayne Mejia",
+      "bday": "1969/06/25",
+      "airplane_id": 1
+    },
+    {
+      "id": 4,
+      "name": "Jamie Dunn",
+      "bday": "1994/11/24",
+      "airplane_id": 2
+    }
+  ]
+}
